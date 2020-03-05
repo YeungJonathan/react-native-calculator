@@ -1,4 +1,4 @@
-# SimpleCalc
+# SimpleCalc 🔢
 
 This repo is the first project for my 30 minute coding challenge.
 
