@@ -6,7 +6,7 @@ const AppStyle = StyleSheet.create({
         backgroundColor: 'black',
     },
     topContainer: {
-        flex: 1
+        flex: 1.2
     },
     bottomContainer: {
         flex: 2, 
@@ -18,7 +18,20 @@ const AppStyle = StyleSheet.create({
         flex:1, 
         flexDirection:"row", 
         alignItems:"center", 
-        justifyContent:"space-evenly"
+        justifyContent:"space-evenly",
+    },
+    buttonContainer: {
+        borderWidth:1, 
+        borderColor:'white', 
+        height:75, 
+        width:75, 
+        borderRadius:75/2, 
+        justifyContent:"center", 
+        alignItems:"center"
+    },
+    buttonText: {
+        color:'white', 
+        fontSize: 35
     }
 });
 
