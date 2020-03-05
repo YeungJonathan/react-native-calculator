@@ -7,8 +7,10 @@ The 30 minute coding challenge is a challenge I made to code something simple wi
 This repo contains a calculator created with React Native.
 
 ## Screenshots 
-
-
+<div style="flex-direction: row">
+  <img src="/screenshots/start.png" height="455">
+  <img src="/screenshots/equation.png" height="455">
+</div>
 
 ## To run this project
 ```
